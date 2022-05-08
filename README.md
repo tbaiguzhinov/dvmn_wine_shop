@@ -5,7 +5,7 @@
 ## Запуск
 
 - Скачайте код
-- Установите зависимости
+- Установите зависимости <br>
 `pip install -r requirements.txt`
 - Запустите сайт командой <br>
 `python3 main.py wine.xlsx`
