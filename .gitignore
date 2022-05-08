@@ -8,5 +8,7 @@ __pycache__/
 .idea/
 Thumbs.db
 .DS_Store
+.replit/
+index.html/
 .replit
 index.html
